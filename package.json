@@ -6,9 +6,17 @@
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
-  "author": "Jonas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vananhnd/Natours.git"
+  },
+  "author": "Anhndv",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vananhnd/Natours/issues"
+  },
+  "homepage": "https://github.com/vananhnd/Natours#readme",
   "devDependencies": {
-    "node-sass": "^4.5.3"
+    "node-sass": "^8.0.0"
   }
 }
