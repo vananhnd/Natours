@@ -10,10 +10,8 @@
 1. npm install live-server
 
 # Compile SASS -> CSS
-
 1. Cd Natours
 2. npm run compile:sass
 
 # Run live server
-
 1. live-server
